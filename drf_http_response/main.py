@@ -3,7 +3,7 @@
 from rest_framework import status
 from rest_framework.response import Response
 
-__version__ = "0.0.0.1"
+__version__ = "0.0.1.0"
 
 
 class ResponseInterface(object):

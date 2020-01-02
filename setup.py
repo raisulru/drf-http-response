@@ -40,7 +40,7 @@ setup(
     description="",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Kutumbita/drf_http_reponse",
+    url="https://github.com/raisulru/drf-http-response.git",
     packages=find_packages(exclude=EXCLUDE_FROM_PACKAGES),
     include_package_data=True,
     keywords=[],
